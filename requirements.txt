@@ -1,0 +1,10 @@
+streamlit>=0.57.3
+pandas>=1.0.3
+numpy>=1.18.2
+websockets>=8.1
+matplotlib>=3.2.1
+plotly>=4.6.0
+Markdown>=3.2.1
+graphviz
+bokeh
+altair
